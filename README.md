@@ -1,7 +1,3 @@
-Here’s the **README.md snippet** for your GitHub repo to explain the decorator example professionally and match the style of your Mixin README.
-
----
-
 ````markdown
 # Python Decorator Example — Timing Function Execution
 
