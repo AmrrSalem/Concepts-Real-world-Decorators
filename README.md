@@ -79,7 +79,3 @@ Sum: 12
    * Runs code **after** it (`end_time` and print elapsed time).
 3. `functools.wraps` ensures the wrapped function keeps its original name and docstring.
 
----
-
-If you want, I can also make a **side-by-side visual comparison** of **Mixin vs Decorator** in a table format for your repo, so readers immediately understand when to use each. That would unify the two examples in a neat way.
-```
